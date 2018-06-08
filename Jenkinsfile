@@ -10,7 +10,7 @@ pipeline {
   {
     "TaskName": "项目范围规划",
     "ProjectName": "test-20180605-A01",
-    "PercentComplete": 15
+    "PercentComplete": 20
   }
 ]'
 
